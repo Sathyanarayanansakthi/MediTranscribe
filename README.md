@@ -1,6 +1,6 @@
 # MediTranscribe
 
-MediTranscribe is a web application designed to help medical professionals convert audio recordings into text and manage prescriptions efficiently. It offers features like audio file uploads, automatic conversion of audio to text, easy editing, and saving prescriptions. 
+MediTranscribe is a web application designed to help medical professionals convert audio recordings into text and manage prescriptions efficiently. It offers features like audio file uploads, automatic conversion of audio to text, easy editing, and saving prescriptions.
 
 ## Features
 
@@ -12,6 +12,7 @@ MediTranscribe is a web application designed to help medical professionals conve
 ## Technologies Used
 
 - **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB
 - **Icons**: React Icons (for social media and navigation)
 - **Routing**: React Router
 - **State Management**: React useState for component state
@@ -21,6 +22,8 @@ MediTranscribe is a web application designed to help medical professionals conve
 To run this project locally, follow these steps:
 
 ### Prerequisites
-- Make sure you have **Node.js** installed on your machine. You can check if it's installed by running:
+
+- Make sure you have **Node.js** and **npm** installed on your machine. You can check if they are installed by running:
   ```bash
   node -v
+  npm -v
